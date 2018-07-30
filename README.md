@@ -8,6 +8,6 @@ You can used display of other dimention as well.
 
 ### Controlling raspberry-pi external display with android app
 
-[![Demo CountPages alpha](https://j.gifs.com/xv4Qzl.gif)
+[![Demo CountPages alpha](https://gifs.com/gif/respberry-pi-android-app-controlling-external-display-xv4Qzl)
 
 
